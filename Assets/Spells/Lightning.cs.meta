@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79fd6ba76355f394a8286aceb567607c
+timeCreated: 1521690415
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lightningmat: {fileID: 2100000, guid: 985005171885d2e468a5b056ea095a48, type: 2}
+  - Sprite: {fileID: 21300000, guid: 9eb765600d22b514c87d1a234eccee05, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
